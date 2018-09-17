@@ -58,7 +58,7 @@ You’ll need to create one design per page per device. For example, if you have
 
 Visit [this site](https://github.com/code-warrior/grid-templates) for some grid templates. 
 
-**`Complete by 17/18 September 2018`**
+**`Complete by 17/25 September 2018`**
 
 ## 07 / Style Guide
 With your designs finalized, prepare a one-page slide containing the style guide for your designs. A style guide is a document that defines design assets, colors, and text styles you used in your designs. For example, if you use Open Sans as body text, `#bada55` as a color for the background of your pages, and `#c0ffee` as the color for accents, then these would be listed as such in your style guide. At the very least, your style guide should list the following:
@@ -70,7 +70,7 @@ With your designs finalized, prepare a one-page slide containing the style guide
 
 Visit [this Medium article](https://medium.com/inspiration-supply/style-guides-by-pro-designers-5605707afc07) to see some style guide examples.
 
-**`Complete by 24/25 September 2018`**
+**`Complete by 24 September/2 October 2018`**
 
 ## 08 / Presentation
 Compile a PDF slide deck consisting of the following:
@@ -81,7 +81,7 @@ Compile a PDF slide deck consisting of the following:
 
 The PDF slide deck **must** be called `presentation.pdf` and it may **not** be larger than 20MB. **This is the file you will submit as your midterm project.**
 
-**`Complete by 1/2 October 2018 (due date)`**
+**`Complete by 1/9 October 2018 (due date)`**
 
 ## Grading
 | Item                                                  | Points |
@@ -104,7 +104,7 @@ The PDF slide deck **must** be called `presentation.pdf` and it may **not** be l
 6:00 PM on 1 October 2018.
 
 ### Tuesday Section
-6:00 PM on 2 October 2018.
+6:00 PM on 9 October 2018.
 
 **No late work will be accepted.**
 ## Submission
